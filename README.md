@@ -18,12 +18,6 @@ Our investors want to know if Instagram is performing well and is not becoming r
 - Bots & Fake Accounts: The investors want to know if the platform is crowded with fake and dummy accounts Your Task: Provide data on users (bots) who have liked every single photo on the site (since any normal user would not be able to do this).<br>
 
 
-![Screenshot 2023-09-11 135746](https://github.com/salonimeshram13/Social-Media-Analysis-SQL-Study/assets/136232688/79cff476-ece4-4884-8dbe-079a1c7245f7)
-
-![Screenshot 2023-09-11 135709](https://github.com/salonimeshram13/Social-Media-Analysis-SQL-Study/assets/136232688/83a989bd-01fa-4bee-a794-5a5c028c2576)
-
-
-
 
 
 
